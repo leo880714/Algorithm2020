@@ -1,0 +1,28 @@
+This is README file for Algorithm PA#2
+Author: <Shu-Chuan, Hsu, b06502152>
+Date: 2020/11/17
+=====
+SYNOPSIS:
+
+mps
+=====
+DIRECTORY:
+
+bin/	  executable binary
+doc/	  reports
+inputs/   input data
+outputs/  output result
+src/ 	  source C++ codes
+utility/  checker
+======
+HOW TO CIMPILE:
+
+Then compile the demo, simply follow the following steps
+	make
+======
+HOW TO RUN:
+
+	under b06502152_pa2
+	make
+	./bin/mps inputs/<input file name> outputs/<output file name>
+
